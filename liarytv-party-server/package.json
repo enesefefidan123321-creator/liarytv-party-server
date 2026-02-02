@@ -1,0 +1,13 @@
+{
+  "name": "liarytv-party-server",
+  "version": "1.0.0",
+  "description": "LiaryTV Birlikte İzleme Saati",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
